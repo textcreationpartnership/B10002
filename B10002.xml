@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An advertisement. These following atlas's and treatises, with the maps, charts and sculptures therein contained; with any sort of mathematical-books and instruments, are made and sold by John Seller, [hydrographer to the Kings Most Excellent Majesty at his shop at the Hermitage-Stairs in Wapping, and in Exchange-Alley near the Royal Exchange in London.</title>
+            <author>Seller, John, fl. 1658-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10002</idno>
+            <idno type="STC">Wing S2461B</idno>
+            <idno type="STC">ESTC R224415</idno>
+            <idno type="EEBO-CITATION">69648919</idno>
+            <idno type="OCLC">ocm 69648919</idno>
+            <idno type="VID">185074</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185074)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2886:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An advertisement. These following atlas's and treatises, with the maps, charts and sculptures therein contained; with any sort of mathematical-books and instruments, are made and sold by John Seller, [hydrographer to the Kings Most Excellent Majesty at his shop at the Hermitage-Stairs in Wapping, and in Exchange-Alley near the Royal Exchange in London.</title>
+                  <author>Seller, John, fl. 1658-1698.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term>Publishers and publishing --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185074:1" rendition="simple:additions"/>
+            <head>An Advertiſement.</head>
+            <p>
+               <hi>Theſe following</hi> Atlas<hi>'s and Treatiſes, with the Maps, Charts and Sculptures therein contained; with any ſort of Mathematical-Books and Inſtruments, are made and ſold by</hi> JOHN SELLER, [Hydrographer <hi>to the Kings moſt excellent Majeſty</hi>] <hi>at his Shop at the</hi> Hermitage-ſtairs <hi>in</hi> Wapping, <hi>and in</hi> Exchange-Alley <hi>near the Royal-Exchange in</hi> London.</p>
+            <list>
+               <item>
+                  <hi>Atlas Terreſtris;</hi> COntaining variety of choice Maps and Deſcriptions of all the Empires, Monarchies, Kingdoms, Principa<g ref="char:EOLhyphen"/>lities, Dominions, Regions and Countries in all the known parts of the World. Accommodated with a Geo<g ref="char:EOLhyphen"/>graphical Diſcourſe of each particular Country.</item>
+               <item>
+                  <hi>
+                     <hi>Atlas</hi> Magnae Britanniae, Hiberniae,</hi> &amp; <hi>Cambriae;</hi> Containing particular Mapps of all the Counties and Shires in the Kingdoms of <hi>England, Scotland, Ireland,</hi> and the Principality of <hi>Wales.</hi> Accommodated with a Diſcourſe of the Natural Rarities of each County in the ſame. Alſo with the Maritime Charts, Draughts and Deſcripti<g ref="char:EOLhyphen"/>ons of the Sea-Coaſts; ſhewing the Capes, Head-lands, Sands, Shoals, Rocks and Dangers: The Bayes, Roads, Harbours, Ports, and Rivers on the ſaid Coaſts: with the Courſes and Diſtances from one place to another.</item>
+               <item>
+                  <hi>Atlas Maritimus;</hi> Containing new and exact Draughts and Deſcriptions of the Sea-Coaſts, Capes, Head-lands, Soundings, Sands, Rocks and Dangers; The Bayes, Roads, Harbours, Rivers and Ports: ſhewing the Courſes and Diſtances from one place to another. Gathered from the lateſt and beſt Diſco<g ref="char:EOLhyphen"/>veries that have been made by divers able and experienced Navigators of our <hi>Engliſh</hi> Nation. Accommodated with the Hydrographical Deſcriptions of the Sea-Coaſts in moſt of the known parts of the World.</item>
+               <item>
+                  <hi>Atlas Civitatem et <g ref="char:V">Ʋ</g>rbium;</hi> Containing the Sight and Proſpect of the moſt famous Cities and Towns in the World: Accommodated with a Diſcourſe of the Original Riſe, with the Cuſtom, Manners, and Government of each City.</item>
+               <item>
+                  <hi>Atlas Coeleſtis;</hi> Containing general and particular Deſcriptions and Fi<g ref="char:EOLhyphen"/>gures of each Conſtellation in the Heavens: Alſo the Faces and Appearances of every Planet and Repreſentation of the three Syſtems of <hi>Ptolomy, Tycho,</hi> and <hi>Copernicus;</hi> accommo<g ref="char:EOLhyphen"/>dated with a Diſcourſe relating to the ſame.</item>
+               <item>
+                  <hi>Atlas Edificiarum;</hi> OR, A Collection of the moſt famous Structures and Buildings in the whole World; as, Palaces, Lowers, Caſtles, Cathe<g ref="char:EOLhyphen"/>drals, Monaſtries, Churches, Tombs, Statues, Monuments, Manſion-Houſes; with all other Ornaments and rare Pieces of Architecture both of Antient and Modern Builders.</item>
+               <item>
+                  <hi>Atlas Effigies Imperatorum</hi> &amp; <hi>Regum;</hi> OR, A choice Collection of the Effigies and Portraitures of all the Emperors, Monarchs, Kings, Princes and Potentates in the whole World.</item>
+               <item>
+                  <hi>Atlas Nobilium</hi> &amp; <hi>Heroum;</hi> OR, A Collection of the Effigies and Portraitures of the No<g ref="char:EOLhyphen"/>bles, Marqueſſes, Earls, Viſcounts, Lords, Generals, Ma<g ref="char:EOLhyphen"/>giſtrates, and other Perſonages and Heroes both Men and Women, renowned either for Virtue or Valour, both For<g ref="char:EOLhyphen"/>reign and Domeſtique.</item>
+               <item>
+                  <hi>Atlas Clerorum;</hi> OR, A Collection of the Effigies and Portraitures of the Popes, Cardinals, Abbots, Biſhops, Prelates, Philoſophers, Clerks, and great Scholars; Judges, Counſellors, Lawyers, Doctors of Divinity and Phyſick, and other Perſons renown'd for Wiſdom and Learning.</item>
+               <item>
+                  <hi>Atlas Generoſorum;</hi> OR, A Collection of the Effigies and Portraitures of Knights, Eſquires, Captains, and Gentlemen of ſeveral degrees and qualities.</item>
+               <item>
+                  <hi>Atlas Publicorum</hi> &amp; <hi>Artificicum;</hi> OR A Collection of the Effigies and Portraitures of divers worthy Per<g ref="char:EOLhyphen"/>ſons and Artiſts of ſeveral Myſteries and Profeſſions, worthy of Honour and Renown; with the Faſhions and Habits of Men and Women in all Nations.</item>
+               <item>
+                  <hi>Atlas Deorum Ethnicorum;</hi> OR A Collection of the Heathen Gods and Goddeſſes, with other Poeti<g ref="char:EOLhyphen"/>cal Fictions; including alſo ſeveral Coloſſes &amp; Wonders of the World.</item>
+               <item>
+                  <hi>Atlas Meſcelaniorum;</hi> Or, A Collection of choice and curious Sculptures, of Hiſtories, Pictures, Emblems, Proverbs, Winds, Seaſons, Times of the Day, Parts of the World, Elements, Senſes, Graces, Muſes, Planets, Ships, Sea-Storms, Landskips, Compartements, with ſeveral other Rarities.</item>
+               <item>
+                  <hi>Atlas Sanctorum;</hi> Or, A Collection of the Effigies of all the Prophets, Apoſtles, Saints, Martyrs and Confeſſors that have been in all Ages of the World.</item>
+               <item>
+                  <hi>Atlas Hiſtoriarum Sacrarum;</hi> Or, A choice Collection of all the Stories in the Holy Scriptures.</item>
+               <item>
+                  <hi>Atlas Paradiſeos;</hi> Or, A choice Collection of Beaſts, Birds, Inſects, Gardens, Trees, Fruits, Flowers, Hawking, Hunting, and Fiſhing; with other rare and curious Sculptures.</item>
+               <item>The <hi>Engliſh-Pilot,</hi> in 4 Volumns; Deſcribing the Sea-coaſts, Capes, Headlands, Soundings, Sands, Shoals, Rocks and Dangers; The Bayes, Roads, Harbours, Rivers and Ports in moſt of the known parts of the World: Shewing the Courſes and Diſtances from one place to another, ſetting of the Tydes &amp; Currents. Ebbing &amp; Flowing of the Sea; with new Tables of the Suns Declina<g ref="char:EOLhyphen"/>tion, and an Almanack of the Moon, and a large Tyde-Table: being alſo furniſhed with new and exact Draughts, Charts and Deſcriptions. Gathered from the lateſt and beſt Diſcoveries that have been made by divers able and experienced Navigators of our Engliſh Nation.</item>
+               <item>The Coaſting-Pilot; Deſcribing the Sea-coaſts, with the Sands, Shoals, Soundings, Rocks and Dangers; The Bayes, Roads, Harbours, Rivers, Ports, Channels, Buoys, Beacons and Sea-marks upon the Coaſts of <hi>England, Holland,</hi> and <hi>Flanders;</hi> ſhewing the Courſes and Diſtances from one place to another, the ſetting of the Tydes and Currents, the ebbing and flow<g ref="char:EOLhyphen"/>ing of the Sea; and Tables for the Tydes, and nature of the Grounds; being furniſhed with large Charts, Draughts and Deſcriptions of the Sands and Harbours on the ſaid Coaſts. Gathered from the Practice and Experience of divers able and experienced Navigators of our Engliſh Nation. Publiſhed for the better Security of his Majeſties Ships in this preſent Expedition, By <hi>JOHN SELLER,</hi> Hydrographer, <hi>&amp;c.</hi>
+               </item>
+               <item>
+                  <hi>Practical-Navigation;</hi> or, <hi>An Introduction to the whole Art.</hi> Containing many uſeful and Geometrical Definitions and Problems; The Do<g ref="char:EOLhyphen"/>ctrine of plain and Spherical Triangles, Plain Mercator and Circle-Sayling; ſundry uſefull Problems in <hi>Aſtronomy;</hi> the uſe of Inſtruments; the Azimuth-Compaſs, Ring-Dial, Variation-Compaſs, the Fore-ſtaff, Quadrant, Plow, Croſsbow-Quadrant, Removing-Quadrant, Nocturnal and Moon-Dial; the Plain-Scale, Gunters-Scale, Sinical-Quadrant, Plain-Chart, Mercator's-Chart, both Globes, the In<g ref="char:EOLhyphen"/>clinatory-Needle, and the Virtues of the Loadſtone; uſeful Tables of the Moons-Age, of the Tyde, of the Suns-Place and Declination; of the Stars Right-Aſcen<g ref="char:EOLhyphen"/>tion and Declination; the Latitude and Longitude of Places; New Traverſe-Tables, and their uſe in keeping a Reckoning at Sea. <hi>The Deſcription and <g ref="char:V">Ʋ</g>ſe of the TRIANG<g ref="char:V">Ʋ</g>LAR-Q<g ref="char:V">Ʋ</g>ADRANT;</hi> being a particu<g ref="char:EOLhyphen"/>lar and general Inſtrument, uſeful at Land or Sea, both for Operation and Obſer<g ref="char:EOLhyphen"/>vation; more univerſally uſeful, portable and convenient than any other yet diſco<g ref="char:EOLhyphen"/>vered; with its uſes in <hi>Arithmetick, Geometry</hi> ſuperficial and ſolid, <hi>Aſtronomy, Di<g ref="char:EOLhyphen"/>a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ng</hi> three wayes, Gaging, Navigation; in a Method not before uſed.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
